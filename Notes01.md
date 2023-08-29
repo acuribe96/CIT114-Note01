@@ -183,6 +183,63 @@ PSU converts alternating current (AC) electric power to a low-voltage direct cur
 Allow the user to enter data into a system, or control its operation 
 Devices include mouse and keyboard; touchpads, webcams, microphones, joysticks, and image scanners
 
+*History*
+
+Cloud computing was proposed in 1961 by McCarthy
+In 2002, Amazon created AWS
+Amazon launched Elastic Compute Cloud (EC2) in 2006
+
+*Capacity Planning*
+
+Process of determining and fulfilling future demands of an ogranizations IT's resources, products, and services.
+
+*Lead Strategy* 
+
+Adding capacity to an IT resource in anticipation of demand
+
+*Lag Strategy*
+
+Adding capacity when the IT resources reaches its full capacity
+
+*Match Strategy*
+
+Adding IT resource capacity in small increments, as demand increases
+
+*Cloud*
+
+A distinct IT environment that is designed for the purpose remotely provisioning scalable and measured IT resources
+Typically privately owned and offers access to IT resources that is metered.
+
+*IT Resource*
+
+Physical or virtual IT-related artifact that can be either software based, such as a virtual server or a custom software program, or hardware-based, such as a physical server or a network device.
+
+*Scaling*
+
+ Ability of the IT resource to handle increased or decreased usage demands.
+ 
+ *Horizontal Scaling* 
+ 
+ Scaling out and scaling in
+ Referred to as scaling out and the horizontal releasing of resources is referred to as scaling in.
+ Common form of scaling
+ Less expensive
+ 
+ *Vertical Scaling* 
+ 
+ Scaling up - replacing of an IT resource with another that has a higher capacity
+ Scaling down - replacing an IT resource with another that has a lower capacity
+ Costly
+
+ *Cloud Service*
+
+ Any IT resource that is made remotely accessible via a cloud.
+
+ *Cloud Service COnsumer*
+
+Temporary runtime role assumed by a software program when it accesses a cloud service.
+ 
+
 **Question 2**
 
 > Often when people think of information technology (IT), imaginations (and popular media) think of it as the geek sitting by a phone waiting to help a person with a computer issue.
