@@ -182,3 +182,10 @@ PSU converts alternating current (AC) electric power to a low-voltage direct cur
 
 Allow the user to enter data into a system, or control its operation 
 Devices include mouse and keyboard; touchpads, webcams, microphones, joysticks, and image scanners
+
+**Question 2**
+
+> Often when people think of information technology (IT), imaginations (and popular media) think of it as the geek sitting by a phone waiting to help a person with a computer issue.
+Growing up I've always thought being a computer wiz was just someone typing super fast and doing some hacking stuff. Whenever my mom would buy DVD's there would be an infomerical about copyrighting a movie by downloading it and selling it to people. In that infomercial it would show a guy in a hoody typing super fast and doing some hacking codes. That always stood in my mind. But as I grew and started to know more about the IT world, I realized there's a lot more different jobs than just hacking and coding. 
+> ..employment of computer and information technology occupations is projected to grow 12 percent from 2018 to 2028, which is faster than the average for all occupations.
+I find this quote intersting because it shows that technology is the fastest and number one industry that is increasing every year. Many jobs have gone extinct due to technology, such as people who would manually paint and weld vehicles and people that will climb structures to build a building.
