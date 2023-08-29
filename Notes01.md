@@ -1,6 +1,6 @@
-Aneissa Uribe #A first-level heading
+Aneissa Uribe
 CIT114
-Module 1: Notes 01
+#**Module 1: Notes 01**
 
 What is Information Technology (IT)?
 Computing power (CPU, RAM)
