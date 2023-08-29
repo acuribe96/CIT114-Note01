@@ -5,6 +5,7 @@ CIT114
 **Module 1: Notes 01**
 
 *What is Information Technology (IT)?*
+
 Computing power (CPU, RAM)
 Storage (files and databases)
 Networking (wired, wireless)
@@ -13,6 +14,7 @@ Management: billing and cost management
 Management compliance and governance; FERPA
 
 *Why is Information Technology Important?*
+
 Data overload: business need to process huge amounts of data 
 Mobile and wireless users: more employees are offering remote work options that require smartphones, tablets, laptops with wireless hotspots and roaming
 Cloud services: many businesses now with cloud services - 3rd party hosting platforms that maintain that data 
