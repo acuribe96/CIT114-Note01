@@ -192,3 +192,7 @@ Growing up I've always thought being a computer wiz was just someone typing supe
 > ..employment of computer and information technology occupations is projected to grow 12 percent from 2018 to 2028, which is faster than the average for all occupations.
 
 I find this quote intersting because it shows that technology is the fastest and number one industry that is increasing every year. Many jobs have gone extinct due to technology, such as people who would manually paint and weld vehicles and people that will climb structures to build a building.
+
+**Question 4**
+
+Would AI take over some of these IT jobs like it did to other occupations?
