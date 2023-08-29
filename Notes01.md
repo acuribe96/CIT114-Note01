@@ -1,5 +1,7 @@
 Aneissa Uribe
+
 CIT114
+
 **Module 1: Notes 01**
 
 *What is Information Technology (IT)?*
